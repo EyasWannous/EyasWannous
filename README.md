@@ -39,3 +39,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
 </div>
 
+<!--
+  </br>
+  <div align="left">
+    <img src="https://komarev.com/ghpvc/?username=EyasWannous&color=000080&style=for-the-badge&abbreviated=true"/>
+  </div>
+-->
